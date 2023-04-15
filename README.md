@@ -1,4 +1,4 @@
-<h1 align="center">Verify Discord Bot</h1>
+<h1 align="center">Verify Discord Bot Free Version</h1>
 <h3 align="center">Hi i'm Alex and i'm developing a discord bot for verification.</h3>
 
 - Free version [Look at the image for an example.](https://ibb.co/4ZY1Dcm)
