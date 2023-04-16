@@ -5,7 +5,9 @@
 
 - Description of the bot. **The bot is hosted with botghost, because is free. And is really simple to use.**
 
-- How do i install the bot? **I will install the bot personally because is complicated.**
+- What the bot does? **Is simple, the bot creates an embed like in the example, and after if you press (VERIFY) it gives you the selected role.**
+
+- How do i install the bot? **I will install the bot personally, because is complicated.**
 
 - How can i contact you for the bot? **You can contact me on discord at 𝘼𝙇𝙀𝙓𝙊𝙉𝙀 💎#0001**
 
